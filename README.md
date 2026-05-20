@@ -86,7 +86,7 @@ Research Pipeline
 ## Backend & AI
 
 - LangChain
-- OpenAI GPT-4o-mini
+- Gemni 
 - Python
 
 ---
